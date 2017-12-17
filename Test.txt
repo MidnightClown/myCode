@@ -1,1 +1,3 @@
-今天是2017.12.17日，我在xxx体验github。..asdf
+今天是2017.12.17日，我在xxx体验github
+测试ignore
+测试中文
