@@ -1,2 +1,0 @@
-# myCode
-Hello World~
